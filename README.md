@@ -6,7 +6,7 @@ Sou apaixonada por tecnologia e motivada pela curiosidade de aprender novas habi
 
  ##  Conecte-se comigo 🤳
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielaprado-s/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabee-p)[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabeep_)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabee-p) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabeep_)
 
 <!--
 **Gabee-p/Gabee-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
