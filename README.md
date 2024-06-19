@@ -1,6 +1,6 @@
 ## Gabriela Prado 👩‍💻
  
-Ex-jornalista em transição de carreiras, atualmente sou estudante de Análise e Desenvolvimento de Sistemas e estou me descobrindo nesse universo tech
+Sou uma ex-jornalista em transição de carreiras. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas e estou me descobrindo nesse universo tech
 
 Sou apaixonada por tecnologia e motivada pela curiosidade de aprender novas habilidades. Tenho grande interesse em aprender mais sobre as áreas de desenvolvimento, dados e inteligência artificial. 
 
